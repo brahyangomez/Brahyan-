@@ -1,0 +1,51 @@
+html {
+	font-size:16px;
+	height: 100%;
+
+}
+body {
+	color: white;
+	background: url(http://multimedia.ecuavisa.com/sites/default/files/fotos/2014/12/30/ranas_venenosas.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	font:62.5% Helvetica, Tahoma, Arial, Sans-serif;  
+	height: 100%; 
+}	
+body .container {
+	max-width: 1024px; 
+	width: 100%; 
+}
+.nav_ {
+	margin-bottom: 115px
+}
+.nav_ h1 {
+	font-size: 2.5em
+	color: #B22222;
+	background-color: blue;
+	display: inline-block;
+	border: 3px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px 4px 8px 4px;
+}
+section {
+	display:inline-block;
+	width: 46%;
+	vertical-align: top;  
+}
+form {
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+	color: orange;
+	font-weight: #DC143C;
+}
+form p {
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #FFF5EE; 
+}
+.pq form {
+	color: green;
+}

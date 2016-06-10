@@ -1,0 +1,13 @@
+body {
+	background-attachment:fixed;
+	color: orange; 
+}
+
+ body section .odi h2 {
+	font-weight: bold;
+	border: 2px;
+	border-color: red; 
+}
+.odi p {
+	color: orange;
+}
